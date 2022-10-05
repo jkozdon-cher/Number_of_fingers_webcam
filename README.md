@@ -13,3 +13,9 @@ for example, to control a drone or other vehicle whose camera is looking at us.
 To run a project, all you need to do is have Python installed with the Open CV library and any webcam available.
 After running the script, a window with the webcam image is displayed. 
 Place your hand in the marked square, and above you will see an inscription indicating how many fingers you are showing on your hand.
+
+
+![main window with result](./images/frame_1.png) 
+
+
+In folder ./images you can found some pictures with my results and two pictures showing the various stages of work on the image from web cam.
